@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="RFIDWeb"
+  id="myeclipse.1430300667895"
+  context-root="/RFIDWeb"
+  j2ee-spec="1.4"
+  archive="RFIDWeb.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
